@@ -13,5 +13,10 @@
         "type": "input",
         "name": "email",
         "message": "What is your email address?"
+    },
+    {
+        "type": "input",
+        "name": "color",
+        "message": "What is your favorite color?"
     }
 ]
